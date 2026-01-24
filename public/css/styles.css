@@ -77,9 +77,11 @@ h4,h3{
     padding: 0.3rem;
 }
 
-.vehicle-title {
+.vehicle-title h2,  h3 {
   color: #0077aa;
+  font-size: 12px;
 }
+
 
 
 .cta-button {
